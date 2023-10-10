@@ -1,5 +1,6 @@
 Olá
 
+![](https://media.tenor.com/U28V2bPGlgUAAAAd/gato-sorrindo.gif)
 
 <!--
 **AnjoPlayer/AnjoPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
