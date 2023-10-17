@@ -1,6 +1,6 @@
 Olá
 
-![](https://media.tenor.com/6XiuclJ8kXsAAAAd/morant-ja-morant.gif)
+![](https://media.tenor.com/xfaf65izhKsAAAAM/unsrscandidate-ja.gif)
 
 <!--
 **AnjoPlayer/AnjoPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
